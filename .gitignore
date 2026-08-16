@@ -1,0 +1,38 @@
+# Flutter
+frontend/.dart_tool/
+frontend/build/
+frontend/.idea/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
+
+# Android / Gradle
+frontend/android/.gradle/
+frontend/android/local.properties
+
+# iOS / macOS
+frontend/ios/Pods/
+frontend/macos/Pods/
+
+# Python
+backend/__pycache__/
+backend/**/*.pyc
+backend/.venv/
+backend/venv/
+
+# Secrets
+.env
+backend/.env
+frontend/.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS / logs
+.DS_Store
+Thumbs.db
+*.logfrontend/assets/images/????? ????? ????? ?????.html
+frontend/assets/images/????? ????? ????? ?????_files/
+frontend/assets/images/*.html
+frontend/assets/images/*_files/
